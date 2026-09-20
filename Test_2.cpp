@@ -3,7 +3,7 @@
 
 int main (){
     std::string name = "Alice";
-    int age = 30;
+    int age = 10;
     int annee = 2007;
     std::string ville = "Yaounde";
 
