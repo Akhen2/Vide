@@ -2,7 +2,7 @@
 #include <string>
 
 int main (){
-    std::string name = "Alice";
+    std::string name = "Jean";
     int age = 20;
     int annee = 2007;
     std::string ville = "Yaounde";
